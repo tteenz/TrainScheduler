@@ -12,12 +12,17 @@ body {
 background-color: lightseagreen;
 }
 
-/* .panel-title{
-    Border: 1px solid lightseagreenkl
+.container { 
+    margin-bottom: 20px;
+}
+
+ .panel-title{
+    border-bottom: 1px solid lightgray;
 } 
-*/
+
 
 .panel-success>.panel-heading {
     border-color: lightseagreen;
 
 }
+
