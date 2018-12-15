@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Alfa Slab One';
+    text-align: center;
+    color: white;
+}
+
+body {
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+
+.jumbotron {
+background-color: lightseagreen;
+}
+
+/* .panel-title{
+    Border: 1px solid lightseagreenkl
+} 
+*/
+
+.panel-success>.panel-heading {
+    border-color: lightseagreen;
+
+}
